@@ -1,0 +1,20 @@
+li a {
+    color: green;
+    font-size: 3em;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin:0;
+    background: black url("images/aug7noiseIG.png") no-repeat;
+}
+
+.centered-text {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.8); /* Mostly opaque white background */
+  padding: 20px; /* Add padding for better visibility of the background */
+  border-radius: 10px; /* Add rounded corners to the background */
+}
